@@ -1,2 +1,5 @@
 // Your code here
-console.log('hola')
+let aux = document.querySelector('#theTitle');
+// console.log(aux.style.fontSize);
+
+alert(aux.id)
